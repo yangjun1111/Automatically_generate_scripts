@@ -1,0 +1,2 @@
+# Automatically_generate_scripts
+一个简易版的脚本生成器
